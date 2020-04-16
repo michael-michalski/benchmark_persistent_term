@@ -1,5 +1,7 @@
 # BenchmarkPersistentTerm
 
+https://erlang.org/doc/man/persistent_term.html
+
 ```
 Operating System: Linux
 CPU Information: Intel(R) Core(TM) i7-7820HQ CPU @ 2.90GHz
